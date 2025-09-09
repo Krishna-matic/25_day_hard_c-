@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/generated-image.png" alt="25-Day Hard C++ Challenge Banner" />
+  <img src="asset/generated-image.png" alt="25-Day Hard C++ Challenge Banner" />
 </p>
 
 Welcome to my 25-day coding journey in C++!  
