@@ -41,6 +41,3 @@ Day\_25/
 
 ⭐ Don’t forget to **star this repo** if you find it interesting! ⭐
   
-
-👉 Do you want me to also make a **small GitHub profile README** (the one that shows on your profile page) to match this challenge vibe?
-```
