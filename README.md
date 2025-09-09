@@ -30,10 +30,10 @@ Day\_25/
 
 ## ✨ About Me
 
-👨‍💻 Currently pursuing **B.Tech CSE** @ Bhagwan Parshuram Institute of Technology
+👨‍💻 Currently pursuing B.Tech CSE @ Bhagwan Parshuram Institute of Technology
 🎓 Diploma in Electrical Engineering @ DSEU
-⚡ Passionate about **C++, Control Systems & Embedded Projects**
-📫 Reach me at: **[your\_email@example.com](mailto:your_email@example.com)**
+⚡ Passionate about C++, Control Systems & Embedded Projects
+📫 Reach me at: kl7112180@gmail.com
 
 
 ⭐ Don’t forget to **star this repo** if you find it interesting! ⭐
