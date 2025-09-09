@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="generated-image.png" alt="25-Day Hard C++ Challenge Banner" />
+  <img src="https://raw.githubusercontent.com/Krishna-matic/25_day_hard_c-/main/generated-image.png" alt="25-Day Hard C++ Challenge Banner" />
 </p>
+
 Welcome to my 25-day coding journey in C++!  
 This repository documents my daily progress as I practice, explore concepts, and build mini-projects to sharpen my C++ skills.  
 
