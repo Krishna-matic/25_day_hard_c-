@@ -1,0 +1,1 @@
+//Watched a video on nested loop and tried to make some good patterns using that, will include in day 13.
